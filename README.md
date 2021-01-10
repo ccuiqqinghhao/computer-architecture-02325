@@ -1,1 +1,1 @@
-# computer-system-structure-02325
+# computer-architecture-02325
